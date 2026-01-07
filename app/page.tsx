@@ -61,7 +61,7 @@ export default function Home() {
                   Xeriscape
                 </h3>
                 <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                  Beautiful, water-efficient landscaping designed for Reno's climate. Create stunning outdoor spaces that conserve water while maintaining curb appeal year-round.
+                  Beautiful, water-efficient landscaping designed for Reno&apos;s climate. Create stunning outdoor spaces that conserve water while maintaining curb appeal year-round.
                 </p>
                 <button className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-3 rounded-lg transition-colors duration-200">
                   Get Quote Now
@@ -181,7 +181,7 @@ export default function Home() {
                   Artificial Turf
                 </h3>
                 <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                  Low-maintenance, year-round green lawns that look and feel natural. Perfect for Reno's climate, saving water and time while maintaining beauty.
+                  Low-maintenance, year-round green lawns that look and feel natural. Perfect for Reno&apos;s climate, saving water and time while maintaining beauty.
                 </p>
                 <button className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-3 rounded-lg transition-colors duration-200">
                   Get Quote Now
@@ -248,7 +248,7 @@ export default function Home() {
                     Contact Us
                   </h3>
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    Reach out through our website, phone, or email to discuss your landscaping needs. We'll gather initial information about your project and schedule a convenient time to meet.
+                    Reach out through our website, phone, or email to discuss your landscaping needs. We&apos;ll gather initial information about your project and schedule a convenient time to meet.
                   </p>
                 </div>
               </div>
@@ -264,7 +264,7 @@ export default function Home() {
                     Meet with our team
                   </h3>
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    Our experienced team will visit your property to assess the space, understand your vision, and discuss options. We'll provide expert recommendations and a detailed quote tailored to your needs.
+                    Our experienced team will visit your property to assess the space, understand your vision, and discuss options. We&apos;ll provide expert recommendations and a detailed quote tailored to your needs.
                   </p>
                 </div>
               </div>
@@ -307,7 +307,7 @@ export default function Home() {
                   Based in Northern Nevada, we specialize in high quality landscaping, artificial turf installation, concrete work, irrigation, pavers, rock, and complete yard transformations.
                 </p>
                 <p>
-                  We believe every yard deserves the same attention to detail as the front entrance of a luxury home—clean lines, quality materials, professional craftsmanship, and service you can trust. Whether you're upgrading your lawn, redesigning your outdoor living space, or enhancing curb appeal, our team works closely with you to bring your vision to life.
+                  We believe every yard deserves the same attention to detail as the front entrance of a luxury home—clean lines, quality materials, professional craftsmanship, and service you can trust. Whether you&apos;re upgrading your lawn, redesigning your outdoor living space, or enhancing curb appeal, our team works closely with you to bring your vision to life.
                 </p>
               </div>
             </div>
